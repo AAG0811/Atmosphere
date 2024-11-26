@@ -1,0 +1,3 @@
+/Users/aag/Documents/code-projects/c game/build/CMakeFiles/app.dir
+/Users/aag/Documents/code-projects/c game/build/CMakeFiles/edit_cache.dir
+/Users/aag/Documents/code-projects/c game/build/CMakeFiles/rebuild_cache.dir
